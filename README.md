@@ -51,7 +51,7 @@ SQLite (fácil de cambiar a PostgreSQL/MySQL)
 Instalación y ejecución
 
 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-usuario/fastapi-student-api.git
+git clone https://github.com/Jperaltaa43/fastapi-student-api.git
 cd fastapi-student-api
 
 2️⃣ Crear entorno virtual
